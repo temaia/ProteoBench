@@ -80,6 +80,13 @@ People who contributed to ProteoBench, in alphabetical order:
     *Ruhr University Bochum, Medical Faculty, Center for Protein Diagnostics (PRODI), Gesundheitscampus 4, 44801 Bochum , Germany*
 
 .. line-block::
+    **Teresa Mendes Maia**
+   *VIB-UGent Center for Medical Biotechnology, Technologiepark-Zwijnaarde 75, B9052 Ghent, Belgium
+   *Department of Biomolecular Medicine, Ghent University, Technologiepark-Zwijnaarde 75, B9052
+Ghent, Belgium*
+   *VIB Proteomics Core, Ghent, Belgium*
+
+.. line-block::
     **Emmanuelle Mouton-Barbosa**
     *Institut de Pharmacologie et de Biologie Structurale (IPBS), Université de Toulouse, CNRS, Université de Toulouse (UT), Toulouse, 31077, France*
     *Infrastructure Nationale de Protéomique, ProFI, UAR 2048, Toulouse, France*
@@ -132,16 +139,8 @@ People who contributed to ProteoBench, in alphabetical order:
     *Functional Genomics Center Zurich (FGCZ)−University of Zurich/ETH Zurich, Winterthurerstrasse 190, CH-8057 Zurich, Switzerland*
     *Swiss Institute of Bioinformatics (SIB) Quartier Sorge−Batiment Amphipole, 1015 Lausanne, Switzerland*
     *Core for Life (C4L)*
-
 .. line-block::
     **Christian Panse**
     *Functional Genomics Center Zurich (FGCZ)−University of Zurich/ETH Zurich, Winterthurerstrasse 190, CH-8057 Zurich, Switzerland*
     *Swiss Institute of Bioinformatics (SIB) Quartier Sorge−Batiment Amphipole, 1015 Lausanne, Switzerland*
-    *Core for Life (C4L)*
-
-.. line-block::
-   **An Staes**
-    *Department of Biomolecular Medicine, Ghent University, Ghent, Belgium*
-    *VIB - UGent Center for Medical Biotechnology, VIB, Ghent, Belgium*
-    *VIB-Proteomics Core facility*
     *Core for Life (C4L)*
